@@ -2,7 +2,7 @@
 
 A project to test including Mitsuba3 as a CMake subproject.
 
-This project was set up for the Github [issue]().
+This project was set up for the Github [issue](https://github.com/mitsuba-renderer/mitsuba3/issues/1809).
 
 ### Building instructions
 
