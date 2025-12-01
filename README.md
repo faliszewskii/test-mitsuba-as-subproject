@@ -9,6 +9,7 @@ This project was set up for the Github [issue](https://github.com/mitsuba-render
 ```
 export CC=gcc-13
 export CXX=g++-13
+git submodule update --init --recursive
 mkdir build
 cd build
 cmake -GNinja ..
