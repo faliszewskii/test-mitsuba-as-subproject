@@ -7,8 +7,8 @@ This project was set up for the Github [issue]().
 ### Building instructions
 
 ```
-export CC=gcc-17
-export CXX=g++-17
+export CC=gcc-13
+export CXX=g++-13
 mkdir build
 cd build
 cmake -GNinja ..
